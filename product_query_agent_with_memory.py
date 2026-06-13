@@ -86,4 +86,4 @@ ask_with_memory("what is the price of wireless headphones.")
 # Output: "The price of the wireless headphones is $79.99."
 ask_with_memory("what are the reviews on this product")
 # Now remembers "wireless headphones" from the previous turn and returns its reviews directly.
-# Ouput: "The wireless headphones have 1262 reviews with an average rating of 4.6."
+# Output: "The wireless headphones have 1262 reviews with an average rating of 4.6."
